@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Bonsai.Expressions.AsyncSubject.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.481547"
+     inkscape:cx="10.013053"
+     inkscape:cy="14.286634"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="14.915534,25.687863"
+       id="guide2992" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="7.2506066,14.984587"
+       id="guide2994" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1022.3622)">
+    <g
+       id="g9669"
+       transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
+       style="fill:#ed0090;fill-opacity:1" />
+    <path
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0.63046682;font-family:Sans"
+       inkscape:connector-curvature="0"
+       id="path2989"
+       d="m 8.8849779,1044.2484 4.7777571,-6.7972 -4.4206569,-6.2801 2.7706069,0 2.00715,3.0662 c 0.377618,0.5828 0.681358,1.0713 0.911222,1.4653 0.361198,-0.5418 0.69367,-1.022 0.997418,-1.4407 l 2.204171,-3.0908 2.647468,0 -4.519166,6.1569 4.863952,6.9204 -2.72135,0 -2.684409,-4.0636 -0.714201,-1.0959 -3.435552,5.1595 z" />
+  </g>
+</svg>
