@@ -13,8 +13,8 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Bonsai.Design.ElementCategory.Condition.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Bonsai.Design.ElementCategory.Combinator.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -24,31 +24,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.481547"
-     inkscape:cx="-0.91332903"
-     inkscape:cy="13.61284"
+     inkscape:zoom="20.48"
+     inkscape:cx="-0.723746"
+     inkscape:cy="18.31828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="0,1"
-       position="-17.285156,15.039062"
-       id="guide4444"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="14.941406,41.796875"
-       id="guide4446"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -57,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,12 +55,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1022.3622)">
-    <ellipse
-       style="fill:#fffacd;fill-opacity:1;stroke:#fffacd;stroke-width:0.00986118;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <g
+       id="g9669"
+       transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
+       style="fill:#ed0090;fill-opacity:1" />
+    <circle
+       transform="matrix(1.1787589,0,0,1.1787588,2841.201,-929.04733)"
+       sodipodi:ry="12.088986"
+       sodipodi:rx="12.088986"
+       sodipodi:cy="1668.2035"
+       sodipodi:cx="-2397.6074"
+       r="12.088986"
+       cy="1668.2035"
+       cx="-2397.6074"
        id="circle3011"
-       cx="15"
-       cy="1037.3622"
-       rx="14.99507"
-       ry="14.994984" />
+       style="fill:#eec04b;fill-opacity:1;stroke:none;stroke-width:0.00795008000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z" />
   </g>
 </svg>

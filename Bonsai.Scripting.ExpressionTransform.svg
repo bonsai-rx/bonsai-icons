@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Bonsai.Expressions.svg">
+   sodipodi:docname="Bonsai.Scripting.ExpressionTransform.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.2407735"
-     inkscape:cx="-11.618812"
+     inkscape:cx="-33.163472"
      inkscape:cy="1.0779324"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,12 +56,12 @@
     <path
        inkscape:connector-curvature="0"
        id="path9311"
-       style="font-size:17.17649269000000000px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:17.17649269000000000px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a9a9a9;fill-opacity:1;stroke:none;font-family:Sans"
        d="m 8.3773401,1046.2194 2.2445149,-10.722 -1.8840809,0 0.3374683,-1.6283 1.8839536,0 0.360434,-1.756 c 0.186022,-0.8761 0.378041,-1.5077 0.575673,-1.8955 0.197761,-0.3876 0.519408,-0.7075 0.965198,-0.9594 0.44579,-0.2519 1.052467,-0.378 1.820033,-0.378 0.534973,0 1.310321,0.1123 2.325915,0.3373 l -0.383782,1.8373 c -0.713213,-0.1859 -1.310193,-0.279 -1.790942,-0.279 -0.410959,0 -0.72291,0.102 -0.936108,0.3081 -0.213326,0.2055 -0.397307,0.6921 -0.552453,1.4596 l -0.279033,1.3256 2.349136,0 -0.33734,1.6283 -2.349137,0 -2.244515,10.722 z" />
     <path
        inkscape:connector-curvature="0"
        id="path9313"
-       style="font-size:11.16487789000000000px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;baseline-shift:sub;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       style="font-size:11.16487789000000000px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;baseline-shift:sub;fill:#a9a9a9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        d="m 13.75795,1044.2896 2.373634,-3.39 -2.274498,-3.1918 2.125731,0 1.165127,1.8097 1.227134,-1.8097 2.045224,0 -2.231118,3.1174 2.435641,3.4644 -2.138236,0 -1.338645,-2.0389 -1.351021,2.0389 z" />
   </g>
 </svg>

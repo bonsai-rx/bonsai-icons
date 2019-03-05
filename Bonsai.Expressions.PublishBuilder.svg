@@ -15,7 +15,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Bonsai.Expressions.Publish.svg">
+   sodipodi:docname="Bonsai.Expressions.PublishBuilder.svg">
   <defs
      id="defs2987">
     <linearGradient
@@ -171,7 +171,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.24"
-     inkscape:cx="62.19162"
+     inkscape:cx="46.957245"
      inkscape:cy="7.7274335"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -215,14 +215,14 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <path
-       style="fill:#999999;fill-opacity:1;stroke:none"
+       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
        inkscape:transform-center-y="1.869914"
        d="m 8.4364165,1035.0457 9.3933225,-0.5493 -0.549344,9.3933 z"
        id="path3012"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="1.8698851" />
     <path
-       style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 13.654333,1038.6718 -6.8744853,6.8745"
        id="path3014"
        inkscape:connector-curvature="0"
@@ -232,7 +232,7 @@
        inkscape:connector-curvature="0"
        id="path3784"
        d="m 11.572573,1028.9384 2.292582,-2.2926 11.81511,11.8151 -2.292582,2.2926"
-       style="fill:none;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:transform-center-y="-3.623488"
        inkscape:transform-center-x="-3.6234541" />
   </g>

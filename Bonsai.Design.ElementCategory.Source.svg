@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="Bonsai.Design.ElementCategory.Source.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.48"
-     inkscape:cx="11.318242"
-     inkscape:cy="11.949437"
+     inkscape:zoom="18.85597"
+     inkscape:cx="15.649652"
+     inkscape:cy="18.577102"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -53,20 +53,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1022.3622)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#90ee90;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 30.899046,1027.5777 c 5.46734,5.4673 5.46734,14.3316 0,19.799 0,0 0,0 0,0"
-       id="path11606" />
     <g
        id="g9669"
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
        style="fill:#ed0090;fill-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.66274512;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 31.178826,1027.618 C 34.998283,1033.5098 34.98122,1041.1005 31.135343,1046.975"
+       id="path3876" />
     <circle
-       style="opacity:1;fill:#90ee90;fill-opacity:1;stroke:none;stroke-width:3.67904186;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path814"
-       cx="15"
-       cy="1037.3622"
-       r="15" />
+       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z"
+       style="fill:#377e49;fill-opacity:1;stroke:none;stroke-width:0.00901789000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="circle3011"
+       cx="-2397.6074"
+       cy="1668.2035"
+       r="12.088986"
+       sodipodi:cx="-2397.6074"
+       sodipodi:cy="1668.2035"
+       sodipodi:rx="12.088986"
+       sodipodi:ry="12.088986"
+       transform="matrix(1.1787589,0,0,1.1787589,2841.2011,-929.04751)" />
   </g>
 </svg>

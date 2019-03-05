@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="Bonsai.Design.ElementCategory.Combinator.svg">
   <defs
      id="defs2987" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="20.48"
-     inkscape:cx="2.5477384"
+     inkscape:cx="-0.723746"
      inkscape:cy="18.31828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -59,17 +59,17 @@
        id="g9669"
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
        style="fill:#ed0090;fill-opacity:1" />
-    <g
-       style="fill:none"
-       transform="matrix(1.3471991,0,0,1.3471991,3083.6089,-1209.9506)"
-       id="g8868">
-      <circle
-         style="fill:#fffacd;fill-opacity:1;stroke:#fffacd;stroke-width:0.00795008;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle3011"
-         cx="-2397.6074"
-         cy="1668.2035"
-         r="12.088986"
-         transform="matrix(0.92071835,0,0,0.92071311,-70.248275,132.20027)" />
-    </g>
+    <circle
+       transform="matrix(1.1787589,0,0,1.1787588,2841.201,-929.04733)"
+       sodipodi:ry="12.088986"
+       sodipodi:rx="12.088986"
+       sodipodi:cy="1668.2035"
+       sodipodi:cx="-2397.6074"
+       r="12.088986"
+       cy="1668.2035"
+       cx="-2397.6074"
+       id="circle3011"
+       style="fill:#eec04b;fill-opacity:1;stroke:none;stroke-width:0.00795008000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z" />
   </g>
 </svg>
