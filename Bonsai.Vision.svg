@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Vision.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2407734"
-     inkscape:cx="-48.262736"
-     inkscape:cy="21.783777"
+     inkscape:zoom="20.48"
+     inkscape:cx="-3.7902246"
+     inkscape:cy="10.692042"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -54,17 +54,17 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <path
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        d="M 10.125 13.46875 C 7.7633919 13.46875 5.84375 15.3883 5.84375 17.75 C 5.84375 20.1116 7.7633919 22 10.125 22 C 12.420606 22 14.272097 20.207689 14.375 17.9375 L 11.875 17.9375 C 11.775682 18.827445 11.041453 19.53125 10.125 19.53125 C 9.1409964 19.53125 8.34375 18.734 8.34375 17.75 C 8.34375 16.766 9.1409964 15.96875 10.125 15.96875 C 10.454641 15.96875 10.766412 16.031442 11.03125 16.1875 L 12.25 14.0625 C 11.618331 13.694348 10.908839 13.46875 10.125 13.46875 z "
        transform="translate(0,1022.3622)"
        id="path4652" />
     <path
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        d="M 14.5 5.21875 C 12.138392 5.21875 10.25 7.1384 10.25 9.5 C 10.25 11.20607 11.24243 12.657633 12.6875 13.34375 L 13.9375 11.15625 C 13.23803 10.915745 12.71875 10.281095 12.71875 9.5 C 12.71875 8.516 13.515996 7.71875 14.5 7.71875 C 15.484002 7.71875 16.28125 8.516 16.28125 9.5 C 16.28125 10.195066 15.893047 10.76883 15.3125 11.0625 L 16.5625 13.21875 C 17.885202 12.491645 18.78125 11.115987 18.78125 9.5 C 18.78125 7.1384 16.861606 5.21875 14.5 5.21875 z "
        transform="translate(0,1022.3622)"
        id="path4648" />
     <path
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        d="M 17.0625 14.03125 C 15.756981 14.763247 14.875 16.146729 14.875 17.75 C 14.875 20.1116 16.794642 22 19.15625 22 C 21.517856 22 23.40625 20.1116 23.40625 17.75 C 23.40625 16.207701 22.599264 14.845936 21.375 14.09375 L 20.125 16.25 C 20.598934 16.570186 20.9375 17.135 20.9375 17.75 C 20.9375 18.734 20.140252 19.53125 19.15625 19.53125 C 18.172246 19.53125 17.375 18.734 17.375 17.75 C 17.375 17.065377 17.746126 16.454589 18.3125 16.15625 L 17.0625 14.03125 z "
        transform="translate(0,1022.3622)"
        id="path4656" />

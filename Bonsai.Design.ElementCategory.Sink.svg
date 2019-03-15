@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Design.ElementCategory.Sink.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2407734"
-     inkscape:cx="23.649174"
-     inkscape:cy="6.6586005"
+     inkscape:zoom="20.48"
+     inkscape:cx="5.0195312"
+     inkscape:cy="6.5204937"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -63,16 +63,10 @@
        id="path3876-8"
        inkscape:connector-curvature="0" />
     <circle
-       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z"
-       style="fill:#4452af;fill-opacity:1;stroke:none"
-       id="circle3011"
-       cx="-2397.6074"
-       cy="1668.2035"
-       r="12.088986"
-       sodipodi:cx="-2397.6074"
-       sodipodi:cy="1668.2035"
-       sodipodi:rx="12.088986"
-       sodipodi:ry="12.088986"
-       transform="matrix(1.1787656,0,0,1.1787589,2841.2172,-929.04751)" />
+       style="opacity:1;vector-effect:none;fill:#a446c8;fill-opacity:1;stroke:none;stroke-width:1.33333325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815"
+       cx="15.000049"
+       cy="1037.3622"
+       r="14.25" />
   </g>
 </svg>

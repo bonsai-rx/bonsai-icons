@@ -13,8 +13,8 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Bonsai.Design.ElementCategory.Combinator.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Bonsai.Design.ElementCategory.Condition.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.48"
-     inkscape:cx="-0.723746"
-     inkscape:cy="18.31828"
+     inkscape:zoom="28.963094"
+     inkscape:cx="8.8770623"
+     inkscape:cy="15.14149"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,18 +58,12 @@
     <g
        id="g9669"
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
-       style="fill:#ed0090;fill-opacity:1" />
+       style="fill:#eec04b;fill-opacity:1;font-variant-east_asian:normal;opacity:1;vector-effect:none;stroke:none;stroke-width:14.113666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
-       transform="matrix(1.1787589,0,0,1.1787588,2841.201,-929.04733)"
-       sodipodi:ry="12.088986"
-       sodipodi:rx="12.088986"
-       sodipodi:cy="1668.2035"
-       sodipodi:cx="-2397.6074"
-       r="12.088986"
-       cy="1668.2035"
-       cx="-2397.6074"
-       id="circle3011"
-       style="fill:#eec04b;fill-opacity:1;stroke:none;stroke-width:0.00795008000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z" />
+       style="opacity:1;vector-effect:none;fill:#eec04b;fill-opacity:1;stroke:none;stroke-width:1.33333325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path853"
+       cx="14.999913"
+       cy="1037.3622"
+       r="14.25" />
   </g>
 </svg>

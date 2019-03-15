@@ -14,7 +14,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Expressions.ConditionBuilder.svg">
   <defs
      id="defs2987">
@@ -236,15 +236,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="15.956591"
+     inkscape:cx="0.64409196"
      inkscape:cy="19.46475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -271,24 +271,24 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 10.211075,1036.3278 3.3536619,1036.3278 3.3536619,1038.5056 8.531696,1038.5056"
        id="path6774"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 18.853662,1032.2092 18.853662,1036.3122 16.666162,1036.3122 14.791162,1038.519 18.853662,1038.519 18.853662,1042.5876 25.697412,1038.519 25.822412,1038.519 25.822412,1038.45 27.572412,1037.4156 25.822412,1036.3812 25.822412,1036.3122 25.728662,1036.3122 z"
        id="path3020"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
     <path
-       style="font-size:20.66219902px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88582677;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:standard 7;-inkscape-font-specification:Sans Bold"
+       style="font-size:20.66219902px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88582677;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:standard 7;-inkscape-font-specification:Sans Bold"
        d="M 11.4375,1029.0938 C 10.085083,1029.0939 8.9211397,1029.4959 8.0625,1030.3125 7.7385167,1030.6207 7.4339635,1031.0105 7.1875,1031.4375 L 6.96875,1031.8125 7.34375,1032.0312 8.8125,1032.8438 9.21875,1033.0625 9.4375,1032.6562 C 9.578043,1032.383 9.761904,1032.1772 9.96875,1031.9688 10.345061,1031.5896 10.774357,1031.4688 11.4375,1031.4688 12.073925,1031.4688 12.562186,1031.6676 13,1032.125 13.444435,1032.5893 13.656243,1033.0883 13.65625,1033.6875 13.656243,1034.0115 13.578338,1034.2969 13.4375,1034.5625 13.31013,1034.8027 12.974096,1035.2413 12.40625,1035.7812 11.815382,1036.3431 11.379451,1036.7662 11.125,1037.0938 10.795874,1037.5208 10.562132,1037.9634 10.40625,1038.4062 10.196906,1038.9853 10.093746,1039.6545 10.09375,1040.4062 10.093746,1040.5349 10.118705,1040.6934 10.125,1040.9375 L 10.125,1041.375 10.5625,1041.375 12.1875,1041.375 12.59375,1041.375 12.625,1040.9375 C 12.637212,1040.2265 12.686702,1039.7206 12.75,1039.4688 12.820024,1039.1902 12.925326,1038.9526 13.0625,1038.75 13.186801,1038.5665 13.522194,1038.1723 14.0625,1037.6562 14.89905,1036.858 15.490873,1036.1863 15.8125,1035.5625 16.126017,1034.9543 16.281239,1034.2724 16.28125,1033.5625 16.281239,1032.3404 15.811012,1031.2666 14.9375,1030.4062 14.050249,1029.5322 12.865958,1029.0939 11.4375,1029.0938 z"
        id="path3830"
        inkscape:connector-curvature="0" />
     <path
-       style="font-size:20.66219902px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#a9a9a9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88582677;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:standard 7;-inkscape-font-specification:Sans Bold"
+       style="font-size:20.66219902px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88582677;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:standard 7;-inkscape-font-specification:Sans Bold"
        d="M 10,1042.0625 10,1042.5 10,1044.5938 10,1045.0312 10.4375,1045.0312 12.375,1045.0312 12.8125,1045.0312 12.8125,1044.5938 12.8125,1042.5 12.8125,1042.0625 12.375,1042.0625 10.4375,1042.0625 10,1042.0625 z"
        id="path3834"
        inkscape:connector-curvature="0" />

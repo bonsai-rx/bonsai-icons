@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Design.ElementCategory.Nested.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="4.8291631"
-     inkscape:cy="12.450423"
+     inkscape:zoom="22.627418"
+     inkscape:cx="19.762637"
+     inkscape:cy="12.812763"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -41,15 +41,18 @@
     <sodipodi:guide
        orientation="0,1"
        position="-17.285156,15.039062"
-       id="guide4444" />
+       id="guide4444"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="14.941406,41.796875"
-       id="guide4446" />
+       id="guide4446"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="15.046875,29.25"
-       id="guide3770" />
+       id="guide3770"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -69,16 +72,10 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <circle
-       transform="matrix(1.2408756,0,0,1.2408756,2990.1325,-1032.6708)"
-       sodipodi:ry="12.088986"
-       sodipodi:rx="12.088986"
-       sodipodi:cy="1668.2035"
-       sodipodi:cx="-2397.6074"
-       r="12.088986"
-       cy="1668.2035"
-       cx="-2397.6074"
-       id="circle6558-1"
-       style="fill:none;stroke:#a9a9a9;stroke-width:1.61176511;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M -2385.5184,1668.2035 C -2385.5184,1674.8801 -2390.9309,1680.2925 -2397.6074,1680.2925 -2404.284,1680.2925 -2409.6964,1674.8801 -2409.6964,1668.2035 -2409.6964,1661.5269 -2404.284,1656.1145 -2397.6074,1656.1145 -2390.9309,1656.1145 -2385.5184,1661.5269 -2385.5184,1668.2035 z" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path821"
+       cx="14.999951"
+       cy="1037.3622"
+       r="15.001" />
   </g>
 </svg>

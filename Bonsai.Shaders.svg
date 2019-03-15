@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Shaders.svg">
   <defs
      id="defs2987" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.2407735"
-     inkscape:cx="21.607228"
+     inkscape:cx="-12.228936"
      inkscape:cy="9.476137"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-midpoints="true"
@@ -42,11 +42,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="14.984587,35.493446"
-       id="guide3879" />
+       id="guide3879"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="-32.73131,14.915534"
-       id="guide3881" />
+       id="guide3881"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -68,9 +70,9 @@
     <g
        id="g9669"
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
-       style="fill:#ed0090;fill-opacity:1" />
+       style="fill-opacity:1" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10295"
        width="3.6224513"
        height="3.6224513"
@@ -83,7 +85,7 @@
        height="3.6224513"
        width="3.6224513"
        id="rect10297"
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        transform="scale(1,-1)" />
     <rect
        y="-1032.0796"
@@ -91,7 +93,7 @@
        height="3.6224513"
        width="3.6224513"
        id="rect10303"
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        transform="scale(1,-1)" />
     <rect
        y="-1036.7931"
@@ -99,7 +101,7 @@
        height="3.6224513"
        width="3.6224513"
        id="rect10305"
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        transform="scale(1,-1)" />
     <rect
        y="-1036.7931"
@@ -107,7 +109,7 @@
        height="3.6224513"
        width="3.6224513"
        id="rect10309"
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        transform="scale(1,-1)" />
     <rect
        y="-1041.5065"
@@ -115,10 +117,10 @@
        height="3.6224513"
        width="3.6224513"
        id="rect10311"
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10313"
        width="3.6224513"
        height="3.6224513"
@@ -126,7 +128,7 @@
        y="-1041.5065"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10317"
        width="3.6224513"
        height="3.6224513"
@@ -134,7 +136,7 @@
        y="-1041.5065"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10325"
        width="3.6224513"
        height="3.6224513"
@@ -142,7 +144,7 @@
        y="-1046.2201"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10327"
        width="3.6224513"
        height="3.6224513"
@@ -150,7 +152,7 @@
        y="-1041.5065"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10333"
        width="3.6224513"
        height="3.6224513"
@@ -158,7 +160,7 @@
        y="-1046.2201"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        id="rect10335"
        width="3.6224513"
        height="3.6224513"

@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Design.ElementCategory.Workflow.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="33.962719"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.337719"
      inkscape:cy="10.877531"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -41,11 +41,13 @@
     <sodipodi:guide
        orientation="0,1"
        position="-17.285156,15.039062"
-       id="guide4444" />
+       id="guide4444"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="14.941406,41.796875"
-       id="guide4446" />
+       id="guide4446"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">

@@ -14,7 +14,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Expressions.PublishBuilder.svg">
   <defs
      id="defs2987">
@@ -171,15 +171,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.24"
-     inkscape:cx="46.957245"
+     inkscape:cx="23.031464"
      inkscape:cy="7.7274335"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -187,15 +187,18 @@
     <sodipodi:guide
        orientation="0,1"
        position="-17.285156,15.039062"
-       id="guide4444" />
+       id="guide4444"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="14.941406,41.796875"
-       id="guide4446" />
+       id="guide4446"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="8.0792473,17.712196"
-       id="guide3013" />
+       id="guide3013"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -215,14 +218,14 @@
      id="layer1"
      transform="translate(0,-1022.3622)">
     <path
-       style="fill:#a9a9a9;fill-opacity:1;stroke:none"
+       style="fill-opacity:1;stroke:none"
        inkscape:transform-center-y="1.869914"
        d="m 8.4364165,1035.0457 9.3933225,-0.5493 -0.549344,9.3933 z"
        id="path3012"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="1.8698851" />
     <path
-       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;"
        d="m 13.654333,1038.6718 -6.8744853,6.8745"
        id="path3014"
        inkscape:connector-curvature="0"
@@ -232,7 +235,7 @@
        inkscape:connector-curvature="0"
        id="path3784"
        d="m 11.572573,1028.9384 2.292582,-2.2926 11.81511,11.8151 -2.292582,2.2926"
-       style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;"
        inkscape:transform-center-y="-3.623488"
        inkscape:transform-center-x="-3.6234541" />
   </g>
