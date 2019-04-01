@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Bonsai.IO.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28.963094"
-     inkscape:cx="13.293646"
-     inkscape:cy="12.411614"
+     inkscape:zoom="10.24"
+     inkscape:cx="11.333079"
+     inkscape:cy="9.6218642"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      inkscape:snap-midpoints="true"
@@ -72,8 +72,8 @@
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
        style="fill:#ed0090;fill-opacity:1" />
     <path
-       style="fill:none;"
-       d="m 11.743462,1044.4991 3.132781,-13.8637"
+       style="fill:none"
+       d="m 11.084282,1044.4991 3.132781,-13.8637"
        id="path3758"
        inkscape:connector-curvature="0" />
     <path
@@ -84,7 +84,7 @@
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;"
+       style="fill:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 24.683494,1037.5133 c 0,2.3145 -1.876222,4.1907 -4.190662,4.1907 -2.314439,0 -4.190661,-1.8762 -4.190661,-4.1907 0,-2.3143 1.876222,-4.1905 4.190661,-4.1905 2.31444,0 4.190662,1.8762 4.190662,4.1905 z"
        id="path3762" />
   </g>

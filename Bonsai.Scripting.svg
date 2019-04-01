@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Bonsai.Scripting.svg">
   <defs
      id="defs2987" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.481547"
-     inkscape:cx="16.994534"
-     inkscape:cy="5.1699521"
+     inkscape:zoom="40.96"
+     inkscape:cx="18.023564"
+     inkscape:cy="16.052091"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,15 +37,18 @@
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
     <sodipodi:guide
        orientation="1,0"
        position="14.941406,30.664063"
-       id="guide2998" />
+       id="guide2998"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="0.87890625,14.941406"
-       id="guide3000" />
+       id="guide3000"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -69,18 +72,18 @@
        transform="matrix(0.09447108,0,0,0.09447108,2.7574049,1025.8677)"
        style="fill:#ed0090;fill-opacity:1" />
     <path
-       d="m 10.662634,1041.9675 -7.5416117,-3.5103 0,-1.944 7.5416117,-3.4944 0,2.2895 -5.2603197,2.1528 5.2603197,2.2331 z"
-       style="font-size:13.81695174999999900px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a9a9a9;fill-opacity:1;stroke:none;font-family:Sans"
+       d="m 11.041863,1042.2186 -6.8763628,-3.7072 v -2.0533 l 6.8763628,-3.6904 v 2.4179 l -4.7963047,2.2737 4.7963047,2.3584 z"
+       style="font-style:normal;font-weight:bold;font-size:13.81695175px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:0.98131114"
        id="path3003"
        inkscape:connector-curvature="0" />
     <path
-       d="m 12.046332,1043.5821 3.59527,-12.1779 2.089925,0 -3.634908,12.1779 z"
-       style="font-size:13.81695174999999900px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a9a9a9;fill-opacity:1;stroke:none;font-family:Sans"
+       d="m 12.303504,1043.9239 3.278129,-12.8615 h 1.905572 l -3.314271,12.8615 z"
+       style="font-style:normal;font-weight:bold;font-size:13.81695175px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:0.98131114"
        id="path3005"
        inkscape:connector-curvature="0" />
     <path
-       d="m 19.253333,1041.9635 0,-2.2733 5.267883,-2.2171 -5.267883,-2.193 0,-2.2573 7.549175,3.4944 0,1.9279 z"
-       style="font-size:13.81695174999999900px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a9a9a9;fill-opacity:1;stroke:none;font-family:Sans"
+       d="m 18.874772,1042.2145 v -2.401 l 4.8032,-2.3415 -4.8032,-2.3161 v -2.3841 l 6.883258,3.6906 v 2.0361 z"
+       style="font-style:normal;font-weight:bold;font-size:13.81695175px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:0.98131114"
        id="path3007"
        inkscape:connector-curvature="0" />
   </g>
