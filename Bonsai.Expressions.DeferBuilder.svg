@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,109 +9,64 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="30"
    height="30"
-   id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Bonsai.Expressions.DeferBuilder.svg">
-  <defs
-     id="defs2987" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="40.96"
-     inkscape:cx="-0.11940161"
-     inkscape:cy="15.140955"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
-     inkscape:window-maximized="1"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-object-midpoints="true">
-    <sodipodi:guide
-       orientation="1,0"
-       position="31.347656,36.914062"
-       id="guide3878"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="41.015625,25.585937"
-       id="guide3899"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="38.476562,4.4921875"
-       id="guide3901"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="9.8179112,14.9879"
-       orientation="4.7815,7.8880528"
-       id="guide4313"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="17.650863,19.736"
-       orientation="4.7481,-7.8329518"
-       id="guide4320"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+   id="svg14"
+   sodipodi:docname="Bonsai.Expressions.DeferBuilder2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata2990">
+     id="metadata20">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1022.3622)">
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="g12"
+     style="stroke-width:2">
     <path
-       style="fill:none"
-       d="m 17.650863,1032.6262 -6.416783,3.8897"
-       id="path4309"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       d="m17.651 10.264-6.4168 3.8897"
+       id="path2" />
     <path
-       style="fill:none"
-       d="m 11.278187,1038.2595 6.427777,3.8963"
-       id="path3817"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       d="m11.278 15.897 6.4278 3.8963"
+       id="path4" />
     <path
-       style="fill:none"
-       d="M 22.319289,1031.3457 C 22.319289,1032.7266 21.199851,1033.8461 19.818954,1033.8461 18.438057,1033.8461 17.31862,1032.7266 17.31862,1031.3457 17.31862,1029.9649 18.438057,1028.8454 19.818954,1028.8454 21.199851,1028.8454 22.319289,1029.9649 22.319289,1031.3457 z"
-       id="path4179"
-       inkscape:connector-curvature="0" />
+       d="m22.319 8.9835c0 1.3809-1.1194 2.5004-2.5003 2.5004s-2.5003-1.1195-2.5003-2.5004c0-1.3808 1.1194-2.5003 2.5003-2.5003s2.5003 1.1195 2.5003 2.5003z"
+       id="path6" />
     <path
-       style="fill:none"
-       d="M 22.393793,1043.4273 C 22.393793,1044.8081 21.274355,1045.9276 19.893459,1045.9276 18.512561,1045.9276 17.393124,1044.8081 17.393124,1043.4273 17.393124,1042.0464 18.512561,1040.9269 19.893459,1040.9269 21.274355,1040.9269 22.393793,1042.0464 22.393793,1043.4273 z"
-       id="path4181"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g9669"
-       transform="matrix(0.09447214,0,0,0.09447108,2.7574149,1025.8677)"
-       style="fill:#ed0090" />
+       d="m22.394 21.065c0 1.3808-1.1194 2.5003-2.5003 2.5003s-2.5003-1.1195-2.5003-2.5003c0-1.3809 1.1194-2.5004 2.5003-2.5004s2.5003 1.1195 2.5003 2.5004z"
+       id="path8" />
     <path
-       style="fill:none"
-       d="m 11.413181,1037.4469 c 0,1.3809 -1.119439,2.5004 -2.5003355,2.5004 -1.380897,0 -2.500334,-1.1195 -2.500334,-2.5004 0,-1.3808 1.119437,-2.5004 2.500334,-2.5004 1.3808965,0 2.5003355,1.1196 2.5003355,2.5004 z"
-       id="path4305"
-       inkscape:connector-curvature="0" />
+       d="m11.413 15.085c0 1.3809-1.1194 2.5004-2.5003 2.5004s-2.5003-1.1195-2.5003-2.5004c0-1.3808 1.1194-2.5004 2.5003-2.5004s2.5003 1.1196 2.5003 2.5004z"
+       id="path10" />
   </g>
 </svg>

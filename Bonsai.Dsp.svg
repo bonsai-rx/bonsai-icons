@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Dsp.svg">
   <defs
      id="defs2987" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="20.480001"
-     inkscape:cx="20.75413"
+     inkscape:cx="-3.17165"
      inkscape:cy="15.408033"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -72,33 +72,32 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1022.3622)">
+     id="layer2"
+     inkscape:label="Layer 1">
     <path
-       style="fill:none;fill-rule:evenodd;stroke-width:0.97364116"
-       d="m 6.9580075,1036.1851 v 2.569"
+       style="color:#000000;fill-rule:evenodd;stroke-width:2"
+       d="M 5.9570312,13.822266 V 16.392578 H 7.9570312 V 13.822266 Z"
        id="path1387"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke-width:0.97364116"
-       d="m 10.424804,1033.9518 v 7.0357"
+       style="color:#000000;fill-rule:evenodd;stroke-width:2"
+       d="M 9.4238281,11.589844 V 18.625 H 11.423828 V 11.589844 Z"
        id="path1389"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke-width:0.97364116"
-       d="m 13.8916,1031.3712 v 12.1968"
+       style="color:#000000;fill-rule:evenodd;stroke-width:2"
+       d="M 12.890625,9.0097656 V 21.205078 H 14.890625 V 9.0097656 Z"
        id="path1391"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke-width:0.97364116"
-       d="m 17.358398,1035.0974 v 4.7444"
+       style="color:#000000;fill-rule:evenodd;stroke-width:2"
+       d="M 16.357422,12.734375 V 17.480469 H 18.357422 V 12.734375 Z"
        id="path1393"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke-width:0.97364116"
-       d="m 20.825194,1029.4618 v 16.0156"
+       style="color:#000000;fill-rule:evenodd;stroke-width:2"
+       d="M 19.824219,7.0996094 V 23.115234 H 21.824219 V 7.0996094 Z"
        id="path1395"
        inkscape:connector-curvature="0" />
   </g>

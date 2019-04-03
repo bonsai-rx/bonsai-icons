@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="10.24"
-     inkscape:cx="14.574775"
+     inkscape:cx="-9.3510063"
      inkscape:cy="13.794853"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="3000"
      inkscape:window-height="1875"
@@ -77,18 +77,17 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1022.3622)">
+     id="layer2"
+     inkscape:label="Layer 1">
     <path
        style="stroke-width:0.90167916"
-       d="M 17.552734 12.412109 L 9.0820312 12.908203 L 12.363281 16.1875 L 6.8808594 21.669922 L 8.2949219 23.083984 L 13.777344 17.601562 L 17.056641 20.882812 L 17.552734 12.412109 z "
-       transform="translate(0,1022.3622)"
-       id="path3012" />
+       d="M 17.552734,12.412109 9.0820312,12.908203 12.363281,16.1875 6.8808594,21.669922 8.2949219,23.083984 13.777344,17.601562 17.056641,20.882812 Z"
+       id="path3012"
+       inkscape:connector-curvature="0" />
     <path
        style="color:#000000;stroke-width:2"
-       d="m 13.976562,1026.2812 -2.773437,2.7754 1.414063,1.4141 1.359374,-1.3613 9.240235,9.2402 -1.361328,1.3594 1.414062,1.414 2.775391,-2.7734 z"
+       d="M 13.976562,3.919 11.203125,6.6944 12.617188,8.1085 13.976562,6.7472 23.216797,15.9874 21.855469,17.3468 23.269531,18.7608 26.044922,15.9874 Z"
        id="path3784"
        inkscape:connector-curvature="0" />
   </g>
