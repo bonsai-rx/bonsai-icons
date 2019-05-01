@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="Bonsai.Arduino.svg"
+   sodipodi:docname="Bonsai.PulsePal.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.1"
    id="svg2985"
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="10.561597"
+     inkscape:cx="-3.8015088"
      inkscape:cy="13.107592"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -65,6 +65,26 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="18.355283,25.2317"
+       orientation="0,1"
+       id="guide818"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.1009032,12.6956"
+       orientation="1,0"
+       id="guide820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.529357,4.5563"
+       orientation="0,1"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20.783737,17.0924"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -92,10 +112,9 @@
        transform="translate(0,1022.3622)"
        inkscape:label="Voronoi" />
     <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path897"
-       d="m 11.529357,1047.8059 9.25438,-12.5361 h -4.463106 l 2.034652,-8.1393 -9.2543798,12.5361 h 4.4631058 z"
-       style="fill-rule:evenodd;stroke:none;stroke-width:0.74256265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.80619907;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 17.261719,1028.8457 C 16.635553,1028.8811 16.385176,1029.5292 16.010675,1029.9321 14.164805,1032.281 12.309018,1034.6225 10.469345,1036.976 10.053767,1037.5653 10.596656,1038.4515 11.308215,1038.3633 13.168367,1038.3633 15.02852,1038.3633 16.888672,1038.3633 15.294482,1040.4175 13.690633,1042.4645 12.102481,1044.5231 11.669994,1045.137 12.285429,1046.0587 13.018188,1045.8945 13.589064,1045.7798 13.815763,1045.1813 14.176743,1044.7915 15.949595,1042.5073 17.732312,1040.2304 19.49899,1037.9416 19.91009,1037.3514 19.366219,1036.4703 18.656629,1036.5586 16.801034,1036.5586 14.945439,1036.5586 13.089844,1036.5586 14.745397,1034.4529 16.407903,1032.3525 18.059108,1030.2435 18.471297,1029.6541 17.980246,1028.7912 17.261719,1028.8457 Z"
+       id="path825"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

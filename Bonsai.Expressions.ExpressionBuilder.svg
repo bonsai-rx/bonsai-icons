@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Bonsai.Expressions.ExpressionBuilder.svg">
   <defs
      id="defs2987" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26.527143"
-     inkscape:cx="-3.0155522"
+     inkscape:cx="18.232354"
      inkscape:cy="13.553292"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="1819"
+     inkscape:window-height="1057"
+     inkscape:window-x="93"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -74,18 +74,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 1">
-    <path
-       style="color:#000000;-inkscape-font-specification:Sans;stroke-width:2"
-       d="M 14.985839,11.5871 C 13.115114,11.5871 11.587154,13.1151 11.587154,14.9858 11.587154,16.8565 13.115114,18.4129 14.985839,18.4129 16.856564,18.4129 18.412846,16.8565 18.412846,14.9858 18.412846,13.1151 16.856564,11.5871 14.985839,11.5871 Z"
-       id="path4233"
-       inkscape:connector-curvature="0" />
-  </g>
+     inkscape:label="Layer 1" />
 </svg>

@@ -11,7 +11,7 @@
    height="30"
    version="1.1"
    id="svg814"
-   sodipodi:docname="Bonsai.Vision.svg"
+   sodipodi:docname="Bonsai.Tld.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata820">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      id="namedview816"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="-8.794385"
+     inkscape:cx="-18.950635"
      inkscape:cy="9.1170147"
      inkscape:window-x="93"
      inkscape:window-y="-8"
