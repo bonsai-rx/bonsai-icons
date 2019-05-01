@@ -41,7 +41,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="22.709588"
-     inkscape:cx="6.064766"
+     inkscape:cx="-4.7236288"
      inkscape:cy="19.489719"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
@@ -63,18 +63,18 @@
        id="path2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
-       style="fill:none;stroke:#000000;stroke-width:2" />
+       style="fill:none;stroke:currentColor;stroke-width:2" />
     <circle
        r="2.5"
        cy="8.9832497"
        cx="18.61515"
        id="path815"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2" />
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2" />
     <circle
        r="2.5"
        cy="21.06465"
        cx="18.690149"
        id="path815-6"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2" />
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2" />
   </g>
 </svg>

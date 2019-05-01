@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="28.963094"
-     inkscape:cx="5.061799"
+     inkscape:cx="-3.397242"
      inkscape:cy="17.272826"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -77,19 +77,19 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <circle
-       style="fill:#000000;fill-rule:evenodd;stroke-width:0.97378814"
+       style="fill-rule:evenodd;stroke-width:0.97378814"
        id="path815"
        cx="8.9128456"
        cy="15.0847"
        r="3.4130001" />
     <circle
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
        id="path815-1"
        cx="19.818954"
        cy="8.9835501"
        r="2.5" />
     <circle
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
        id="path815-1-6"
        cx="19.893459"
        cy="21.06505"
