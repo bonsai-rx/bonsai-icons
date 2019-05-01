@@ -12,7 +12,7 @@
    version="1.1"
    id="svg7301"
    sodipodi:docname="Bonsai.Numerics.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata7307">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
      id="namedview7303"
      showgrid="false"
      inkscape:zoom="31.466668"
-     inkscape:cx="20.262984"
+     inkscape:cx="4.6909504"
      inkscape:cy="13.39387"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7301"
      inkscape:snap-center="true"
@@ -65,13 +65,19 @@
   </sodipodi:namedview>
   <path
      id="path852"
-     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
      d="M 16.848823,10.061773 H 23.402556 M 16.603685,19.608169 H 23.350401 M 12.307303,17.161229 9.8026473,19.665871 7.5716808,21.896825 M 7.5771165,17.151715 12.316845,21.891407 M 6.5639156,10.004398 H 13.308787 M 9.9363514,6.6284795 V 13.380316"
      inkscape:connector-curvature="0" />
-  <path
-     d="M 21.226849,22.830402 C 21.226849,23.549017 20.644204,24.131651 19.925494,24.131651 19.206784,24.131651 18.624139,23.549017 18.624139,22.830402 18.624139,22.111894 19.206784,21.529153 19.925494,21.529153 20.644204,21.529153 21.226849,22.111894 21.226849,22.830402 Z M 21.226849,16.330895 C 21.226849,17.049509 20.644204,17.632144 19.925494,17.632144 19.206784,17.632144 18.624139,17.049509 18.624139,16.330895 18.624139,15.612386 19.206784,15.029645 19.925494,15.029645 20.644204,15.029645 21.226849,15.612386 21.226849,16.330895 Z"
-     id="path7299"
-     inkscape:connector-curvature="0"
-     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
-     sodipodi:nodetypes="ssssssssss" />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.37134054"
+     id="path815"
+     cx="19.925493"
+     cy="16.330894"
+     r="1.3015" />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.37134054"
+     id="path815-4"
+     cx="19.925493"
+     cy="22.830402"
+     r="1.3015" />
 </svg>

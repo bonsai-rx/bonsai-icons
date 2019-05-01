@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Expressions.GroupWorkflowBuilder.svg">
   <defs
      id="defs2987" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.815442"
-     inkscape:cx="17.809944"
+     inkscape:cx="4.7887245"
      inkscape:cy="14.616956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -64,20 +64,23 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 1">
-    <path
-       style="fill-opacity:1;stroke:none;stroke-width:0.8581717"
-       d="M 15.011857,5.51822 C 13.061674,5.51822 11.475251,7.1063193 11.475251,9.0565021 11.475251,11.006685 13.061674,12.593108 15.011857,12.593108 16.96204,12.593108 18.55014,11.006685 18.55014,9.0565021 18.55014,7.1063193 16.96204,5.51822 15.011857,5.51822 Z"
-       id="path12900"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 9.1170489,14.95572 C 7.1669425,14.95572 5.5789053,16.542081 5.5789053,18.492188 5.5789053,20.442294 7.1669425,22.028655 9.1170489,22.028655 11.067155,22.028655 12.653516,20.442294 12.653516,18.492188 12.653516,16.542081 11.067155,14.95572 9.1170489,14.95572 Z"
-       id="path12896"
-       inkscape:connector-curvature="0"
-       style="fill-opacity:1;stroke:none;stroke-width:0.85813808" />
-    <path
-       style="fill-opacity:1;stroke:none;stroke-width:0.85814112"
-       d="M 20.875,14.924596 C 18.924886,14.924596 17.338519,16.510963 17.338519,18.461077 17.338519,20.411189 18.924886,21.999232 20.875,21.999232 22.825114,21.999232 24.411481,20.411189 24.411481,18.461077 24.411481,16.510963 22.825114,14.924596 20.875,14.924596 Z"
-       id="path12892"
-       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.99861073"
+       id="path815"
+       cx="15.012695"
+       cy="9.0556641"
+       r="3.5" />
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.99861073"
+       id="path815-7"
+       cx="9.1162109"
+       cy="18.492188"
+       r="3.5" />
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.99861073"
+       id="path815-7-1"
+       cx="20.875"
+       cy="18.461914"
+       r="3.5" />
   </g>
 </svg>

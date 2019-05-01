@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Bonsai.FlyPad.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2985"
    height="30"
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627418"
-     inkscape:cx="10.561597"
+     inkscape:cx="-3.9119942"
      inkscape:cy="13.107592"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -79,23 +79,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1022.3622)">
-    <g
-       id="g1488"
-       transform="translate(0,1022.3622)"
-       inkscape:label="Voronoi" />
-    <g
-       id="g1516"
-       transform="translate(0,1022.3622)"
-       inkscape:label="Voronoi" />
+     id="layer2"
+     inkscape:label="Layer 1">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path897"
-       d="m 11.529357,1047.8059 9.25438,-12.5361 h -4.463106 l 2.034652,-8.1393 -9.2543798,12.5361 h 4.4631058 z"
-       style="fill-rule:evenodd;stroke:none;stroke-width:0.74256265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 11.529357,25.4437 20.783737,12.9076 H 16.320631 L 18.355283,4.7683 9.1009032,17.3044 H 13.564009 Z"
+       style="fill-rule:evenodd;stroke-width:0.74256265px" />
   </g>
 </svg>

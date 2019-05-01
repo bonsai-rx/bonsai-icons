@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="Bonsai.Expressions.ConditionBuilder.svg">
   <defs
      id="defs2987" />
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="9.1246868"
+     inkscape:zoom="64"
+     inkscape:cx="10.594542"
      inkscape:cy="13.664639"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -75,14 +75,16 @@
      id="layer2"
      inkscape:label="Layer 1">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.85474873;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 14.676136,19.795626 C 13.68829,19.795626 12.866669,20.615436 12.866669,21.603281 12.866669,22.591128 13.68829,23.412748 14.676136,23.412748 15.663982,23.412748 16.483791,22.591128 16.483791,21.603281 16.483791,20.615436 15.663982,19.795626 14.676136,19.795626 Z"
-       id="path867"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 11.060631,10.762755 C 11.015857,9.1780817 12.24484,7.7223973 13.779475,7.4005357 15.414102,6.9887122 17.287085,7.8817199 17.908074,9.4680031 18.473602,10.802294 17.972003,12.432856 16.844945,13.312227 16.165431,13.953368 15.138933,14.281164 14.763735,15.202629 14.481342,16.113928 14.529116,17.090443 14.562825,18.032355"
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2.5"
+       d="M 11.060631,10.762755 C 11.060631,9.3495631 12.24484,7.7223973 13.779475,7.4005357 15.414102,6.9887122 17.287085,7.8817199 17.908074,9.4680031 18.473602,10.802294 17.972003,12.432856 16.844945,13.312227 16.165431,13.953368 15.138933,14.281164 14.763735,15.202629 14.481342,16.113928 14.560366,17.152943 14.562825,18.032355"
        id="path860"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:1.89616907"
+       id="path819"
+       cx="14.67523"
+       cy="21.604187"
+       r="1.8085001" />
   </g>
 </svg>

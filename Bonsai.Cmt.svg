@@ -12,7 +12,7 @@
    version="1.1"
    id="svg814"
    sodipodi:docname="Bonsai.Cmt.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata820">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,33 +36,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
      id="namedview816"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="21.674365"
+     inkscape:cx="6.361865"
      inkscape:cy="9.1170147"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg814"
      showguides="true"
      inkscape:guide-bbox="true" />
   <path
-     style="opacity:1;fill-opacity:1;stroke:none;stroke-width:2.23131251;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="stroke-width:2.23131251;stroke-linejoin:round"
      d="M 18.421875,12.999785 13.435547,18.500419 10.855469,15.98666 6.5,20.5 V 20.5 L 23.957032,20.485719 Z"
      id="path902"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
   <circle
-     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.98029447;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path839-5"
-     cx="106.80355"
-     cy="48.430252"
-     r="0" />
-  <circle
-     style="opacity:1;fill-opacity:1;stroke:none;stroke-width:0.69451821;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="stroke-width:0.69451821;stroke-linejoin:round"
      id="path839-8"
      cx="10.91524"
      cy="10.963428"

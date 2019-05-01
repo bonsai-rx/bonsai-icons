@@ -12,7 +12,7 @@
    version="1.1"
    id="svg1857"
    sodipodi:docname="Bonsai.Expressions.SelectManyBuilder.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata1863">
     <rdf:RDF>
@@ -35,27 +35,39 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
      id="namedview1859"
      showgrid="false"
      inkscape:zoom="22.250293"
-     inkscape:cx="15.691082"
+     inkscape:cx="4.679991"
      inkscape:cy="14.592732"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1857" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 14.876208,5.6407706 C 14.876208,11.768031 14.876208,17.895291 14.876208,24.022551"
+     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
+     d="M 14.876208,5.6407706 V 24.022551"
      id="path2411"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
-  <path
-     d="M 21.326,15.8 C 19.4586,15.8 17.9246,17.3323 17.9246,19.1996 17.9246,21.067 19.4586,22.6011 21.326,22.6011 23.1934,22.6011 24.7257,21.067 24.7257,19.1996 24.7257,17.3323 23.1934,15.8 21.326,15.8 Z M 21.326,6.8 C 19.4586,6.8 17.9246,8.3324 17.9246,10.1997 17.9246,12.0671 19.4586,13.6011 21.326,13.6011 23.1934,13.6011 24.7257,12.0671 24.7257,10.1997 24.7257,8.3324 23.1934,6.8 21.326,6.8 Z M 8.4696,6.8 C 6.6022,6.8 5.0682,8.3324 5.0682,10.1997 5.0682,12.0671 6.6022,13.6011 8.4696,13.6011 10.337,13.6011 11.8693,12.0671 11.8693,10.1997 11.8693,8.3324 10.337,6.8 8.4696,6.8 Z"
-     id="path1855"
-     inkscape:connector-curvature="0"
-     style="color:#000000;stroke-width:1.80939996;stroke-linecap:round"
-     sodipodi:nodetypes="sssssssssssssss" />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.970079"
+     id="path815"
+     cx="8.46875"
+     cy="10.20055"
+     r="3.4000001" />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.970079"
+     id="path815-3"
+     cx="21.32515"
+     cy="10.20055"
+     r="3.4000001" />
+  <circle
+     style="fill:#000000;fill-rule:evenodd;stroke-width:0.970079"
+     id="path815-31"
+     cx="21.32515"
+     cy="19.20055"
+     r="3.4000001" />
 </svg>

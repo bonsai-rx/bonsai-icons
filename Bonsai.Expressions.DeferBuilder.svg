@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="Bonsai.Expressions.DeferBuilder.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1819"
-     inkscape:window-height="1057"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="22.709588"
-     inkscape:cx="11.569049"
-     inkscape:cy="10.682866"
-     inkscape:window-x="93"
-     inkscape:window-y="-8"
+     inkscape:cx="6.064766"
+     inkscape:cy="19.489719"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g12"
+     inkscape:current-layer="svg14"
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -57,21 +57,24 @@
        inkscape:locked="false" />
   </sodipodi:namedview>
   <g
-     id="g12"
-     style="fill:none;stroke:currentColor;stroke-width:2"
-     transform="translate(-1.2035504,-3e-4)">
+     id="g926">
     <path
-       d="M 17.651,10.264 8.7916058,14.843276 V 15.279193 L 17.7058,20.026827"
+       d="M 16.44745,10.2637 7.5880554,14.842976 V 15.278893 L 16.50225,20.026527"
        id="path2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       d="M 22.319,8.9835 C 22.319,10.3644 21.1996,11.4839 19.8187,11.4839 18.4378,11.4839 17.3184,10.3644 17.3184,8.9835 17.3184,7.6027 18.4378,6.4832 19.8187,6.4832 21.1996,6.4832 22.319,7.6027 22.319,8.9835 Z"
-       id="path6"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 22.394,21.065 C 22.394,22.4458 21.2746,23.5653 19.8937,23.5653 18.5128,23.5653 17.3934,22.4458 17.3934,21.065 17.3934,19.6841 18.5128,18.5646 19.8937,18.5646 21.2746,18.5646 22.394,19.6841 22.394,21.065 Z"
-       id="path8"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:2" />
+    <circle
+       r="2.5"
+       cy="8.9832497"
+       cx="18.61515"
+       id="path815"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2" />
+    <circle
+       r="2.5"
+       cy="21.06465"
+       cx="18.690149"
+       id="path815-6"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2" />
   </g>
 </svg>

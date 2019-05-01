@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="28.963094"
-     inkscape:cx="13.52084"
+     inkscape:cx="5.061799"
      inkscape:cy="17.272826"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -71,25 +71,28 @@
      id="layer2"
      inkscape:label="Layer 1">
     <path
-       style="color:#000000;-inkscape-font-specification:Sans;stroke-width:2"
-       d="M 8.8986848,11.6718 C 7.0279597,11.6718 5.5,13.1998 5.5,15.0705 5.5,16.9412 7.0279597,18.4976 8.8986848,18.4976 10.76941,18.4976 12.325692,16.9412 12.325692,15.0705 12.325692,13.1998 10.76941,11.6718 8.8986848,11.6718 Z"
-       id="path3814"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;stroke:currentColor;stroke-width:2"
        d="M 17.68539,10.264 9.8524379,15.0121 17.740491,19.7936"
        id="path3817"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:currentColor;stroke-width:2"
-       d="M 22.319289,8.9835 C 22.319289,10.3644 21.199851,11.4839 19.818954,11.4839 18.438057,11.4839 17.31862,10.3644 17.31862,8.9835 17.31862,7.6027 18.438057,6.4832 19.818954,6.4832 21.199851,6.4832 22.319289,7.6027 22.319289,8.9835 Z"
-       id="path4179"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:currentColor;stroke-width:2"
-       d="M 22.393793,21.0651 C 22.393793,22.4459 21.274355,23.5654 19.893459,23.5654 18.512561,23.5654 17.393124,22.4459 17.393124,21.0651 17.393124,19.6842 18.512561,18.5647 19.893459,18.5647 21.274355,18.5647 22.393793,19.6842 22.393793,21.0651 Z"
-       id="path4181"
-       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.97378814"
+       id="path815"
+       cx="8.9128456"
+       cy="15.0847"
+       r="3.4130001" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+       id="path815-1"
+       cx="19.818954"
+       cy="8.9835501"
+       r="2.5" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2"
+       id="path815-1-6"
+       cx="19.893459"
+       cy="21.06505"
+       r="2.5" />
   </g>
 </svg>
