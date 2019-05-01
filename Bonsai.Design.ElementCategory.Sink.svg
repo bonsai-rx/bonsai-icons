@@ -11,8 +11,8 @@
    height="30"
    version="1.1"
    id="svg6"
-   sodipodi:docname="Bonsai.Design.ElementCategory.Sink.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="Bonsai.Design.ElementCategory.Sink_old.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,22 +35,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
+     inkscape:window-width="1819"
+     inkscape:window-height="1057"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="15.733333"
-     inkscape:cx="-14.054709"
+     inkscape:cx="11.845715"
      inkscape:cy="18.446909"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-x="93"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <path
-     style="color:#000000;fill:#a9a9a9;stroke-width:2;stroke-linecap:round"
-     d="M -3.2949219,18.695312 C -3.9817053,18.684633 -4.4618301,19.456692 -4.2143238,20.081224 -3.0237283,25.719834 0.99428373,30.656423 6.2680097,32.976843 7.5422008,33.523043 8.8707895,34.014851 10.246879,34.204994 11.078293,34.199859 11.512981,33.052401 10.893654,32.497685 10.242418,32.017087 9.3437999,32.083873 8.6151138,31.746749 3.5892721,30.118186 -0.49278926,25.904711 -1.9593872,20.828986 -2.2636687,20.148355 -2.0923092,19.108764 -2.9037329,18.766571 -3.0276157,18.716965 -3.1615043,18.692575 -3.2949219,18.695312 Z"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     d="M 10.158,33.2 C 3.4054,31.7591 -1.861,26.4692 -3.271,19.71"
+     fill="none"
+     stroke="#a9a9a9"
+     stroke-width="2"
+     id="path2" />
   <circle
      cx="15"
      cy="15"

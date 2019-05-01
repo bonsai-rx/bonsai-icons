@@ -11,8 +11,8 @@
    height="30"
    version="1.1"
    id="svg6"
-   sodipodi:docname="Bonsai.Design.ElementCategory.Source.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="Bonsai.Design.ElementCategory.Source_old.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -35,28 +35,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
+     inkscape:window-width="1819"
+     inkscape:window-height="1057"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="10.418651"
-     inkscape:cx="28.951628"
-     inkscape:cy="15.254237"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="93"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <path
-     style="color:#000000;fill:#a9a9a9;stroke-width:2;stroke-linecap:round"
-     d="M 31.181641,4.1875 C 30.409023,4.1413904 29.878341,5.1228876 30.339844,5.7441406 33.274169,10.19786 33.854278,16.081454 31.850428,21.023577 31.423135,22.136809 30.827431,23.174277 30.206669,24.186956 29.858415,24.942103 30.713098,25.822831 31.478356,25.497395 32.284802,25.06374 32.529741,24.043007 33.00826,23.315586 35.712715,18.066676 35.697091,11.533924 32.967722,6.2979428 32.48204,5.5985708 32.268575,4.5016199 31.379474,4.2095616 31.314632,4.1923152 31.247584,4.1948538 31.181641,4.1875 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
+     d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.135517,24.557"
+     fill="none"
+     stroke="#a9a9a9"
+     stroke-width="2"
+     id="path2" />
   <circle
      cx="15"
      cy="15"
      r="15"
-     id="circle4"
+     fill="#5bb27e"
      stroke="none"
-     fill="#5bb27e" />
+     id="circle4" />
 </svg>
