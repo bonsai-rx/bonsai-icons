@@ -10,3 +10,9 @@ SVG files can be exported from Inkscape, using **Save As...** > **Optimized SVG*
 3. **Options** > *Create groups for similar attributes*
 4. **SVG Output** > *Remove metadata*
 5. **SVG Output** > *Remove comments*
+
+## Cleanup guide
+
+### Remove undesired offsets and groups
+
+In case there are transform groups to invert the Y-axis coordinates, they can be removed by creating a new layer, cut-and-pasting the drawing to this new layer, and deleting the old layer.
