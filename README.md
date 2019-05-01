@@ -3,13 +3,13 @@ A library of icons for the Bonsai visual programming language
 
 ## How to export
 
-SVG files can be exported from Inkscape, using **Save As...** > **Optimized SVG**. Ensure the following checkboxes are enabled:
+SVG files should be exported using [Scour](https://github.com/scour-project/scour) with the following command:
 
-1. **Options** > *Work around renderer bugs*
-2. **Options** > *Collapse groups*
-3. **Options** > *Create groups for similar attributes*
-4. **SVG Output** > *Remove metadata*
-5. **SVG Output** > *Remove comments*
+```scour -i file.svg -o build/file.svg --enable-id-stripping --enable-comment-stripping --remove-metadata --create-groups```
+
+For example, to batch optimize all icons in the project, run the following shell script:
+
+```for f in *.svg ; do scour -i "$f" -o "build/$f" --enable-id-stripping --enable-comment-stripping --remove-metadata --create-groups ; done```
 
 ## Cleanup guide
 
