@@ -13,7 +13,7 @@
    height="30"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="Bonsai.Expressions.CreateAsyncBuilder.svg">
   <defs
      id="defs2987" />
@@ -24,35 +24,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.815442"
-     inkscape:cx="31.354732"
-     inkscape:cy="13.287416"
+     inkscape:zoom="9.407721"
+     inkscape:cx="-49.382109"
+     inkscape:cy="17.661169"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-nodes="false"
-     inkscape:snap-global="false">
-    <sodipodi:guide
-       orientation="0,1"
-       position="-17.285156,15.039062"
-       id="guide4444"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="14.941406,41.796875"
-       id="guide4446"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -75,7 +70,7 @@
        id="path3792"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:currentColor;stroke-width:2"
+       style="fill:none;stroke:currentColor;stroke-width:2;stroke-opacity:1"
        d="M 17.611756,10.2797 9.8040342,15.0125 17.66668,19.7786"
        id="path3817"
        inkscape:connector-curvature="0"

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="30"
-   height="30"
-   id="svg2985"
+   sodipodi:docname="Bonsai.Arduino.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Bonsai.Arduino.svg">
+   id="svg2985"
+   height="30"
+   width="30">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="40.96"
-     inkscape:cx="13.047835"
-     inkscape:cy="15.153749"
+     inkscape:zoom="22.627418"
+     inkscape:cx="17.74315"
+     inkscape:cy="13.107592"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
+     inkscape:window-width="2048"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -58,6 +58,13 @@
        position="14.941406,32.421875"
        id="guide2988"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.5,29"
+       orientation="0.70710678,0.70710678"
+       id="guide1373"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata2990">
@@ -67,28 +74,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(0,-1022.3622)">
+    <g
+       id="g1488"
+       transform="translate(0,1022.3622)"
+       inkscape:label="Voronoi" />
+    <g
+       id="g1516"
+       transform="translate(0,1022.3622)"
+       inkscape:label="Voronoi" />
     <path
+       sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       style="color:#000000;stroke-width:1.69099998"
-       d="M 9.7929686,10.3496 C 7.1489941,10.3496 4.8339844,12.5383 4.8339844,15.1426 4.8339844,17.738 7.134308,19.9216 9.7695316,19.9316 11.311348,20.0066 12.555202,19.4343 13.462891,18.5977 14.115816,17.9958 14.546909,17.2434 15.009766,16.5176 15.472619,17.2434 15.903729,17.9958 16.556641,18.5977 17.464728,19.4347 18.709183,20.0066 20.251954,19.9316 22.879732,19.9116 25.166016,17.7307 25.166016,15.1426 25.166016,12.5462 22.867209,10.3496 20.226563,10.3496 18.612285,10.3496 17.338014,10.9766 16.396485,11.8477 15.806624,12.3934 15.435578,13.0606 15.009766,13.7012 14.58395,13.0606 14.212919,12.3934 13.623047,11.8477 12.681502,10.9766 11.407274,10.3496 9.7929686,10.3496 Z M 9.7929686,12.041 C 10.998621,12.041 11.768246,12.4363 12.47461,13.0898 13.022327,13.5965 13.486599,14.3588 13.962891,15.1074 13.423897,15.9756 12.902924,16.8148 12.316407,17.3555 11.65136,17.9685 10.963974,18.3051 9.8378906,18.2461 H 9.8144536 9.7910156 C 8.1330773,18.2461 6.5234375,16.6785 6.5234375,15.1426 6.5234375,13.6065 8.1326083,12.041 9.7929686,12.041 Z M 20.226563,12.041 C 21.877523,12.041 23.476563,13.6106 23.476563,15.1426 23.476563,16.6743 21.87803,18.2461 20.22461,18.2461 H 20.203125 20.181641 C 19.055593,18.3051 18.366206,17.9685 17.701172,17.3555 17.114681,16.8149 16.595608,15.9755 16.056641,15.1074 16.532933,14.3588 16.997214,13.5965 17.544922,13.0898 18.251273,12.4363 19.020949,12.041 20.226563,12.041 Z"
-       id="path10445" />
-    <path
-       style="color:#000000;stroke-width:1.08312106;stroke-linecap:square"
-       d="M 8.3676322,14.6439 V 15.6439 H 8.9536767 10.854615 11.442006 V 14.6439 H 10.854615 8.9536767 Z"
-       id="path3029"
-       inkscape:connector-curvature="0" />
-    <path
-       style="color:#000000;stroke-width:1.09076226;stroke-linecap:square"
-       d="M 19.438862,13.6169 V 14.162 14.5994 H 18.950125 18.404994 V 15.6897 H 18.950125 19.438862 V 16.1258 16.6709 H 20.530376 V 16.1258 15.6897 H 21.019114 21.564244 V 14.5994 H 21.019114 20.530376 V 14.162 13.6169 Z"
-       id="path3049"
-       inkscape:connector-curvature="0" />
+       id="path897"
+       d="m 11.529357,1047.8059 9.25438,-12.5361 h -4.463106 l 2.034652,-8.1393 -9.2543798,12.5361 h 4.4631058 z"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.74256265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
