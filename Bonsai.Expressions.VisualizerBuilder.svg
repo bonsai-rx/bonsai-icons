@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Bonsai.Expressions.VisualizerBuilder.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.963094"
+     inkscape:cx="4.5490942"
+     inkscape:cy="12.141991"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g832"
+     showgrid="false"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="g832"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill-rule:evenodd"
+       id="rect842"
+       width="3.5"
+       height="8"
+       x="6.5945992"
+       y="13.5" />
+    <rect
+       style="fill-rule:evenodd"
+       id="rect844"
+       width="3.5"
+       height="15"
+       x="11.037035"
+       y="6.5" />
+    <rect
+       style="fill-rule:evenodd"
+       id="rect846"
+       width="3.5"
+       height="10"
+       x="15.479469"
+       y="11.5" />
+    <rect
+       style="fill-rule:evenodd"
+       id="rect848"
+       width="3.5"
+       height="6"
+       x="19.921906"
+       y="15.5" />
+  </g>
+</svg>
