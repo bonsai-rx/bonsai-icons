@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,12 +11,51 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="30"
    height="30"
+   id="svg2985"
    version="1.1"
-   id="svg14"
-   sodipodi:docname="Bonsai.Expressions.WindowBuilder.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Bonsai.Expressions.CreateObservableBuilder.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.963094"
+     inkscape:cx="-3.397242"
+     inkscape:cy="17.272826"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="31.347656,36.914062"
+       id="guide3878"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="41.015625,25.585937"
+       id="guide3899"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="38.476562,4.4921875"
+       id="guide3901"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata20">
+     id="metadata2990">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,54 +66,33 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs18" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3000"
-     inkscape:window-height="1875"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="31.466667"
-     inkscape:cx="-11.025112"
-     inkscape:cy="15"
-     inkscape:window-x="-13"
-     inkscape:window-y="-13"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
-  <path
-     style="fill:none;stroke:currentColor;stroke-width:2"
-     inkscape:connector-curvature="0"
-     id="path2"
-     d="M 17.651,10.264 11.2342,14.1537" />
-  <path
-     style="fill:none;stroke:currentColor;stroke-width:2"
-     inkscape:connector-curvature="0"
-     id="path4"
-     d="M 11.278,15.897 17.7058,19.7933" />
-  <circle
-     r="2.5"
-     cy="8.9835501"
-     cx="19.818701"
-     id="path815"
-     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2" />
-  <circle
-     r="2.5"
-     cy="21.064951"
-     cx="19.8937"
-     id="path815-8"
-     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2" />
-  <circle
-     r="2.5"
-     cy="15.085"
-     cx="8.9126997"
-     id="path815-7"
-     style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:2"
+       d="M 17.68539,10.264 9.8524379,15.0121 17.740491,19.7936"
+       id="path3817"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill-rule:evenodd;stroke-width:0.97378814"
+       id="path815"
+       cx="8.9128456"
+       cy="15.0847"
+       r="3.4130001" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
+       id="path815-1"
+       cx="19.818954"
+       cy="8.9835501"
+       r="2.5" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:2"
+       id="path815-1-6"
+       cx="19.893459"
+       cy="21.06505"
+       r="2.5" />
+  </g>
 </svg>
